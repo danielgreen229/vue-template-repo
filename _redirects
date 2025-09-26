@@ -1,0 +1,1 @@
+echo "/* /index.html 200" > site_templates/your-template/dist/_redirects
